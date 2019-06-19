@@ -18,9 +18,9 @@ Linux/Ubuntu system
 - Go to google colab and create new ipynb file.
 - !git clone {this repository clone}
 - go to dataset folder
-- !wget http://images.cocodataset.org/zips/test2017.zip
-- !wget http://images.cocodataset.org/zips/val2017.zip
-- !wget http://images.cocodataset.org/zips/train2017.zip
+- `!wget http://images.cocodataset.org/zips/test2017.zip`
+- `!wget http://images.cocodataset.org/zips/val2017.zip`
+- `!wget http://images.cocodataset.org/zips/train2017.zip`
 - enter these commands one by one. then unzip each of them using !unzip {filename}
 - create annotations folder and upload these files from the given link https://drive.google.com/open?id=1Oa4FKj4xwOz_44Psi059Y3-on4Ebz0uv
 - DONE! YOUR DATASET IS READY
